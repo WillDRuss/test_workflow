@@ -1,7 +1,7 @@
 "# test_workflow" 
 
 1. Create new branch
-2. Add new feature
+2. Add new feature and commit
 3. Push branch to GitHub
 4. Create PR review
 5. Address any comments on PR review
